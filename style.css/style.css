@@ -1,0 +1,17 @@
+<style>
+        body{
+            background-color: aqua;
+        }
+        h1{
+            color: blue;
+            text-align: center;
+            font-weight: bold;
+        }
+        h2{
+            color: calc(green);
+            font-weight: bolder;
+        }
+        h3{
+            color: calc(brown);
+        }
+    </style>
