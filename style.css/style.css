@@ -1,0 +1,18 @@
+<style>
+        body{
+            background-color: aqua;
+        }
+        h1{
+            color: rgb(0, 0, 0);
+            text-align: left;
+            font-weight:bolder;
+        }
+        h2{
+            color: calc(green);
+            
+        }
+        h3{
+            color: calc(brown);
+            text-align: left;
+        }
+    </style>
